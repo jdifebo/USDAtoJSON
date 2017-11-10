@@ -1,0 +1,5 @@
+Files that still need to be converted to JSON: DATA_SRC, DATSRCLN, FOOTNOTE, LANGDESC, LANGUAL, SRC_CD, 
+
+Halfway complete files: NUT_DATA, 
+
+Completed Files: FD_GROUP, NUTR_DEF, FOOD_DES, WEIGHT, 
